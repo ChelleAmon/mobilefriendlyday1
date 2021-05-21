@@ -4,7 +4,9 @@ header {
     border-style: double;
     background-color: #ACEDFF;
 }
-
+ h1 {
+     color: white;
+ }
 
 
 @media screen and (min-width:480px){
@@ -13,7 +15,7 @@ header {
     }
 
     h1 {
-
+    font-size: 16pt;
     }
 }
 
@@ -21,10 +23,19 @@ header {
     header {
     background-color: #6f8ab7;
     }
-}
+    h1 {
+        font-size: 20pt;
+        }
+    
+    }
+
 
 @media screen and (min-width:1024px){
     header {
     background-color: #615d6c;
     }
+    h1 {
+        font-size: 24pt;
+        }
+
 }
