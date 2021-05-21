@@ -1,0 +1,30 @@
+header {
+    height: 50%;
+    width: 100%;
+    border-style: double;
+    background-color: #ACEDFF;
+}
+
+
+
+@media screen and (min-width:480px){
+    header {
+    background-color: #89BBFE;
+    }
+
+    h1 {
+
+    }
+}
+
+@media screen and (min-width:768px){
+    header {
+    background-color: #6f8ab7;
+    }
+}
+
+@media screen and (min-width:1024px){
+    header {
+    background-color: #615d6c;
+    }
+}
