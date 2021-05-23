@@ -38,4 +38,31 @@ width: 100%;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         padding: 20px;
         color: snow;
+    }
+}
+
+.mainsection {
+padding: 30px;
+}
+.firstsection {
+    float: left;
+    overflow:hidden;
+    display: flex;
+
+    
+}
+
+.firstsection p{
+    color: black;
+
+}
+
+.firstsection h4{
+    color: black;
+    
+}
+
+.secondsection {
+    float: right;
+    clear:none;
 }
